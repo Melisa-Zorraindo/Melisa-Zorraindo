@@ -13,9 +13,7 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melisa-Zorraindo)](https://github.com/Melisa-Zorraindo/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melisa-Zorraindo&layout=compact)](https://github.com/Melisa-Zorraindo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melisa-Zorraindo)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me here
 
