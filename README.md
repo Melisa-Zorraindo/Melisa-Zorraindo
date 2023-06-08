@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Melisa
 
-✨ I'm passionate about languages and technology. I started coding in C as a hobby and now I'm taking formal education as a frontend developer at Noroff. For now, I'm fully focused on mastering JavaScript, but I'd love to resume coding in a backend language at some point because it was a lot of fun. Duolingo enthusiast. Currently teaching myself Polish and Japanese. ✨
+✨ I'm passionate about languages and technology. What began as a hobby coding in C transformed into formal education in frontend development at Noroff, which I have recently completed. I'm fully focused on mastering JavaScript and its frameworks, particularly React and SvelteKit. However, I'm also interested in exploring backend languages as I found them to be a lot of fun. In addition to my programming journey, I'm an avid Duolingo enthusiast, teaching myself Polish and Japanese. ✨
 
 ## Languages and tools
 
