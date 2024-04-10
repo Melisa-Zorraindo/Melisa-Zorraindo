@@ -1,8 +1,6 @@
 # Hi there 👋
 
-📚 I'm a junior frontend developer currently studying backend.
-
-🔨 I'm currently working on [EnviroGraphix](https://github.com/Melisa-Zorraindo/EnviroGraphix)
+📚 I'm a junior software developer
 
 🏆 I recently got a [Certification in Foundational C#](https://www.freecodecamp.org/certification/melisa-zorraindo/foundational-c-sharp-with-microsoft)
 
@@ -20,6 +18,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ## Find me here
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melisa-zorraindo-81719618b/)
