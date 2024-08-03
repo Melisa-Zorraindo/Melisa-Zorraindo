@@ -1,10 +1,16 @@
 # Hi there 👋
 
-📚 I'm a junior software developer
+📚 I'm Melisa Zorraindo, a junior software developer with a passion for creating impactful and efficient solutions.
 
-🏆 I recently got a [Certification in Foundational C#](https://www.freecodecamp.org/certification/melisa-zorraindo/foundational-c-sharp-with-microsoft)
+🏆 I recently got a [Certification in Foundational C#](https://www.freecodecamp.org/certification/melisa-zorraindo/foundational-c-sharp-with-microsoft).
 
-## My stack
+🚀 Currently, I'm working on exciting projects in the renewable energy sector, developing software solutions for electric vehicle chargers. I believe in the power of technology to drive sustainability and make the world a greener place. 🌱
+
+## Code playground
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melisa-Zorraindo&hide=javascript,css,scss,html&theme=tokyonight)
+
+## Tech stack
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
