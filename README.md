@@ -1,10 +1,12 @@
 # Hi there 👋
 
-📚 I'm Melisa Zorraindo, a junior software developer with a passion for creating impactful and efficient solutions.
+📚 I'm Melisa Zorraindo, a software developer with a passion for creating impactful and efficient solutions.
 
-🏆 I recently got a [Certification in Foundational C#](https://www.freecodecamp.org/certification/melisa-zorraindo/foundational-c-sharp-with-microsoft).
+🏆 I have a [Certification in Foundational C#](https://www.freecodecamp.org/certification/melisa-zorraindo/foundational-c-sharp-with-microsoft).
 
 🚀 Currently, I'm working on exciting projects in the renewable energy sector, developing software solutions for electric vehicle chargers. I believe in the power of technology to drive sustainability and make the world a greener place. 🌱
+
+💡 In my free time, I'm tinkering with Java and JavaFX, building small projects to explore new ideas and improve my skills. 🛠️🎨💻
 
 ## Code playground
 
