@@ -1,17 +1,3 @@
-# Hi there 👋
-
-📚 I'm Melisa Zorraindo, a software developer with a passion for creating impactful and efficient solutions.
-
-🏆 I have a [Certification in Foundational C#](https://www.freecodecamp.org/certification/melisa-zorraindo/foundational-c-sharp-with-microsoft).
-
-🚀 Currently, I'm working on exciting projects in the renewable energy sector, developing software solutions for electric vehicle chargers. I believe in the power of technology to drive sustainability and make the world a greener place. 🌱
-
-💡 In my free time, I'm tinkering with Java and JavaFX, building small projects to explore new ideas and improve my skills. 🛠️🎨💻
-
-## Code playground
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melisa-Zorraindo&hide=javascript,css,scss,html&theme=tokyonight)
-
 ## Tech stack
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -34,6 +20,4 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melisa-zorraindo-81719618b/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melisa.zorraindo@gmail.com)
 
-Feel free to reach out to chat, collaborate, or say hi! 🌟
-
-
+Feel free to reach out to chat, collaborate, or say hi! 🖖
